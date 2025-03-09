@@ -6,7 +6,7 @@ This web application allows users to quickly determine if a given integer is a p
 
 **Link to View Output Interface:**
 
-[https://your-deployed-site.example.com](https://your-deployed-site.example.com)
+https://chilaka-eswari.github.io/Prime-Number-Validator/
 
 **Technologies Used:**
 
